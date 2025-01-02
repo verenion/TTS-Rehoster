@@ -12,8 +12,8 @@ improve quality.
 
 ### Upscaling Demo
 
-![img.png](imgs/img.png)
-![img2.png](imgs/img2.png)
+![Comparison of AI upscaling](app/imgs/Screenshot%202025-01-02%20132207.png)
+![Comparison of AI upscaling](app/imgs/Screenshot%202025-01-02%20132351.png)
 
 Before: 40.7MB\
 After: 32.33MB
